@@ -26,5 +26,6 @@
 
 $ javac [Algorithm_file]
 
+If grocery data(csv file) and Algorithm file are in same directory, 
 
 $ time java [Algorithm_file_name] ./[Input_Data_Name].csv [minimum_support]
